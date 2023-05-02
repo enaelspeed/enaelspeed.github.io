@@ -1,5 +1,5 @@
-function hello() {
+function MyComponent () {
   return <div>Hello euh... l'utilisateur ! 👍</div>
 }
 
-ReactDOM.render(<hello />, document.getElementById("plante"));
+ReactDOM.render(<MyComponent />, document.getElementById("plante"));
