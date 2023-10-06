@@ -5,6 +5,9 @@ nav{
     align-items: baseline;
     flex-direction: row;
 }
+ul {
+  list-style-type : none;
+}
 .nav-Cat{
     
     display: flex;
