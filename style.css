@@ -6,7 +6,8 @@ nav{
     flex-direction: row;
 }
 .nav-Bar{
-    
+    background-color: rgb(235, 190, 140);
+}
 .nav-Cat{
     list-style-type : none;
     display: flex;
