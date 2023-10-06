@@ -5,7 +5,8 @@ nav{
     align-items: baseline;
     flex-direction: row;
 }
-
+.nav-Bar{
+    
 .nav-Cat{
     list-style-type : none;
     display: flex;
