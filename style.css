@@ -4,5 +4,11 @@ nav{
     align-content: center;
     align-items: baseline;
     flex-direction: row;
+}
+.nav-Cat{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
 
   
