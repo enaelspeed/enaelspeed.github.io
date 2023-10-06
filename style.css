@@ -5,11 +5,9 @@ nav{
     align-items: baseline;
     flex-direction: row;
 }
-ul {
-  list-style-type : none;
-}
+
 .nav-Cat{
-    
+    list-style-type : none;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
